@@ -1,2 +1,2 @@
-EhxoQt:Genetic Algoritm for Qt 5
+EhxoQt: Genetic Algoritm for Qt 5
 ===
