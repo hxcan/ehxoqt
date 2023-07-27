@@ -1,0 +1,4 @@
+.exzignore
+*.pro.user
+*.pro.user.*
+EhxoQt@*.cpp
